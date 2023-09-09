@@ -22,6 +22,10 @@ Una simple aplicación de tipo "To-Do" o "Lista de Tareas" desarrollada en Pytho
 - La entrada de texto `Entry` permite al usuario escribir nuevas tareas.
 - Los botones "Agregar" y "Eliminar" permiten añadir tareas a la lista y eliminarlas, respectivamente.
 
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Consulte el archivo `LICENSE` para obtener más detalles.
+
 ## MIT License
 
 Copyright (c) [2023] [Carmen Pérez]
